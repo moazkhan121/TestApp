@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <string name="OpenDrawer">OpenDrawer</string>
+    <string name="CloseDrawer">CloseDrawer</string>
+</resources>
